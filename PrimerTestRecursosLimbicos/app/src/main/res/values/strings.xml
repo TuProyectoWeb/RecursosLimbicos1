@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimerTestRecursosLimbicos</string>
+    <string name="mensaje_inicio">¡Bienvenidos al primer test de Recursos Límbicos!</string>
+    <string name="mensaje_final">¡Has finalizado la prueba, gracias por tu tiempo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tituloPpalPrueba">TEST RECURSOS LÍMBICOS</string>
+    <string name="tituloPpalAdmin">ADMINISTRACIÓN DE DATOS DE ENCUESTAS</string>
+    <string name="tituloRegistroEncuestado">REGISTRO DE DATOS DEL ENCUESTADO</string>
+</resources>
